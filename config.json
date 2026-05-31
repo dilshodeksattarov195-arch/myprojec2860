@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvave",
+        "uuid": 23469160,
+        "checksum": "va4s16"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
